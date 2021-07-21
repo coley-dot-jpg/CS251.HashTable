@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ad5f61d9-c701-4d01-8f03-14aaca0a72d9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>= null</find>
+      <find>products</find>
+      <find>throws</find>
+      <find>wr</find>
+      <find>zero</find>
+      <find>remove</find>
+      <find>mtny</find>
+      <find>get</find>
+      <find>system.</find>
+      <find>'</find>
+      <find>zKK</find>
+      <find>zKKq</find>
+      <find>yB</find>
+      <find>y</find>
+      <find>nums</find>
+      <find>ij</find>
+      <find>yb</find>
+      <find>vu</find>
+      <find>pu</find>
+      <find>ii</find>
+      <find>oh</find>
+      <find>pv</find>
+      <find>qx</find>
+      <find>yj</find>
+      <find>zkk</find>
+      <find>arr</find>
+      <find>count</find>
+      <find>system</find>
+      <find>syste</find>
+      <find>sys</find>
+    </findStrings>
+  </component>
+  <component name="ProjectId" id="1ai1Bk5yTWMcMl6ZoJ7NMBXq9ix" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585611676923" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Emelie\OneDrive\Documents\CS 251\Project 3" />
+      <recent name="C:\Users\Emelie\OneDrive\Documents\CS 251\Project 3\Test" />
+      <recent name="C:\Users\Emelie\OneDrive\Documents\CS 251\Project 3\src" />
+      <recent name="C:\Users\Emelie\OneDrive\Documents\CS 251" />
+      <recent name="C:\Users\Emelie\OneDrive\Documents\CS 251\Project 3\.idea" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Recommender">
+    <configuration name="GenerateTestFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GenerateTestFile" />
+      <module name="Project 3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashTable" />
+      <module name="Project 3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashTableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashTableTest" />
+      <module name="Project 3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Recommender" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recommender" />
+      <module name="Project 3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sortTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sortTest" />
+      <module name="Project 3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Recommender" />
+        <item itemvalue="Application.sortTest" />
+        <item itemvalue="Application.GenerateTestFile" />
+        <item itemvalue="Application.HashTable" />
+        <item itemvalue="Application.HashTableTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad5f61d9-c701-4d01-8f03-14aaca0a72d9" name="Default Changelist" comment="" />
+      <created>1585302352947</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585302352947</updated>
+      <workItem from="1594001878616" duration="4385000" />
+      <workItem from="1594180986757" duration="159000" />
+      <workItem from="1596086152264" duration="109000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestMyPatientQueue - 2020.03.27 at 19h 24m 27s.xml">
+      <configuration name="TestMyPatientQueue" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1596086255089">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1596086255089" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1596086152259">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1594181024622" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1596086152259" />
+    <state x="209" y="21" key="new project wizard" timestamp="1596086258890">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="21" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1596086258890" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../Project 1/production/Project 1/TestMyPatientQueue.class</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Recommender.java</url>
+          <line>168</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

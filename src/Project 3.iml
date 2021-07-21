@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$USER_HOME$/OneDrive/Documents/CS 251/Project 3/.idea" />
+    <output-test url="file://$USER_HOME$/OneDrive/Documents/CS 251/Project 3/.idea" />
+    <content url="file://$USER_HOME$/OneDrive/Documents/CS 251">
+      <sourceFolder url="file://$USER_HOME$/OneDrive/Documents/CS 251/Project 2/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/OneDrive/Documents/CS 251/Project 1 startercode/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/OneDrive/Documents/CS 251/Project 3/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="junit-4.12" level="project" />
+  </component>
+</module>
